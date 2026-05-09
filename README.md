@@ -1,3 +1,3 @@
 # socket-chat-app
 
-This is my repo
+This is my repository
